@@ -17,7 +17,7 @@ Welcome to the LinkedIn Income Potential Estimator: a cutting-edge tool develope
 ## Usage
 To get started with the LinkedIn Income Potential Estimator:
 1. Clone this repository.
-2. Install required dependencies listed in `requirements.txt`.
+2. Install required dependencies listed in `requirements`.
 3. Run the main script with `python estimator.py` (Ensure you have your LinkedIn data available in the specified format).
 4. Follow the on-screen prompts to input your professional details.
 
