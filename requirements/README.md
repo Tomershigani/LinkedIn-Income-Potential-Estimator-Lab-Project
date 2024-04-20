@@ -8,3 +8,5 @@
 4. Obtain the Glove embedding file from https://www.kaggle.com/datasets/watts2/glove6b50dtxt and replace the placeholder "glove_path" in the code with the actual path to the Glove embedding file.
 
 5. Assuming you already have the original LinkedIn companies and LinkedIn profiles datasets, replace the placeholders "profiles" and "companies" in the code with the actual paths to these files.
+
+*All the relevant files are in the google drive 
